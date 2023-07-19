@@ -1,2 +1,2 @@
 # java-estudonauta
- Repositório de atividades feitas durante o curso de Java no Estudonauta
+ Repositório de atividades realizadas no curso de Java do Estudonauta
