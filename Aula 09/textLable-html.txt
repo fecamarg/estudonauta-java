@@ -1,0 +1,7 @@
+<html>X<sup>2</sup></html>
+
+<html>&Delta; =</html>
+
+<html><sup>2</sup> - 4 . </html>
+
+<html>Calcular &Delta;</html>
